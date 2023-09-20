@@ -1,6 +1,3 @@
-# hello-world
-Thi is  a GitHub tour exercise
-second line in readme
-third line,
-fourth line
-and here is the fivth.
+# Hier möchte ich GitHub testen.
+Ich werde 'Hello World' README-Datei ändern
+und später eine Pythondatei pushen 
